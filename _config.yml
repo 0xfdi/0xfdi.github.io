@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Zhenyu
+first_name: winux
 middle_name: # leave blank if none
-last_name: Guo
+last_name: # leave blank if none
 contact_note: >
   Feel free to reach out via email for research collaborations or discussions.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -261,8 +261,8 @@ display_categories: ["papers", "projects", "notes"] # these categories will be d
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Guo]
-  first_name: [Zhenyu, Z.]
+  last_name: [winux]
+  first_name: [winux]
 
   style: apa
   locale: en
